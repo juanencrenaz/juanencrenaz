@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juanencrenaz
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m currently learning Machine Learning in R
+- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning proyects
